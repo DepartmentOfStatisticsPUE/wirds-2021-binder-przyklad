@@ -10,7 +10,4 @@ Możemy założyć jakie pakiety mają być na w ramach tego obrazu. W takim raz
 
 ```r
 install.packages("tidyverse")
-install.packages("data.table")
-install.packages("sf")
-install.packages("rio")
 ```
